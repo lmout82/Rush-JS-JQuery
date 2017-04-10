@@ -1,0 +1,50 @@
+//**********************************************************************************************\
+//                                        style.css
+//
+// Author(s): lmout82
+// Licence:  MIT License
+// Link: https://github.com/lmout82/Rush-JS-JQuery
+// Creation date: March 2017
+//***********************************************************************************************/
+
+#board {
+	background-color: #F0F0F0;
+}
+
+#mind-master {
+	box-shadow: 1px 1px 10px lightsteelblue;
+	border: 1px silver solid;
+}
+
+.mind-container {
+	border  : 1px gray solid;
+	display : block;
+	position: absolute;
+	background-color: white;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space:nowrap;
+	border-radius: 10px 0px;
+	line-height: 1.5;
+}
+
+.selected {
+	border: 1px blue solid !important;
+}
+
+.line {
+    border-top: 1.5px red solid;
+    position   : absolute;
+    padding: 0px;
+    margin : 0px;
+}
+
+.line:hover {
+	border-top-width: 2px;
+}
+
+input[type='text'] {
+	border: none;
+	height: 21px;
+	width : 145px;
+}
