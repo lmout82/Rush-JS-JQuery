@@ -6,6 +6,10 @@ Here are 2 projects from a JavaScript/JQuery rush (3 days). Initially, each stud
 - the creation of a game in JQuery which is a clone of the [game 2048](https://en.wikipedia.org/wiki/2048_(video_game)), a single-player sliding block puzzle game.
 - the creation of a [mind-map](https://en.wikipedia.org/wiki/Mind_map).
 
-I decided to carry out both projects within the three allocated days. I succeeded :)
+I decided to carry out both projects within the three allocated days.
 
+## Important notice
 
+This repository was initially developed when I was learning to code a long long time ago. Please take into account that this work does not reflect my present skills.
+
+**_This repository is not maintained._**
